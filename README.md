@@ -7,3 +7,5 @@
 - 📫 How to reach me: discord, I mean It's better
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: C++ (for me) is better than Python
+- I need to learn more about git 
+- test 0110
