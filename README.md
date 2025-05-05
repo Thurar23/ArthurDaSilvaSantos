@@ -6,4 +6,4 @@
 - 💬 Ask me about vectors and map, i can help a few
 - 📫 How to reach me: discord, I mean It's better
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: T-Mac is better than PG
+- ⚡ Fun fact: C++ (for me) is better than Python
